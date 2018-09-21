@@ -6,7 +6,9 @@ This E-Reader device is a Raspberry Pi 2 single board computer with the first ge
 
 To run properly, there must be a Book directory within the project folder which contains EPUB files and the userAccounts.db must have indexed those ebooks with their corresponding users.
 
-## Video Demo
+## Video Demo 
+
+(Click image below to view)
 
 [<img src="demo/stacks.png">](demo/demo.webm)
 
